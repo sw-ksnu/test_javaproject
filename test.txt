@@ -1,1 +1,1 @@
-This file is in branch 'swconv'
+This is for conflict test in master branch
